@@ -28,7 +28,7 @@ A Streamlit-based expense tracking application that helps users manage their exp
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/NagaSwetha123/Expense-Tracker.git
 cd expense-tracker
 ```
 
@@ -142,7 +142,13 @@ expense-tracker/
 ├── requirements.txt     # Project dependencies
 └── README.md            # Documentation
 ```
+![alt text](image.png)
 
+![alt text](image-1.png)
+
+![alt text](image-3.png)
+
+![alt text](image-4.png)
 ### Database Schema
 
 The application uses SQLite with the following tables:
